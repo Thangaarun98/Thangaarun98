@@ -1,6 +1,29 @@
-<a href="https://github.com/Thangaarun98">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=THANGAARUN%20A&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Senior%20Laravel%20%26%20Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Solutions&amp;descAlignY=62&amp;descSize=16"/>
-</a>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a1b4b"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#70a5fd;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#bf91f3;stop-opacity:0.6"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#38bdae;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#70a5fd;stop-opacity:0.4"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="180" fill="url(#bg)"/>
+  <!-- Wave shapes -->
+  <path d="M0,120 C150,80 300,160 450,110 C600,60 750,140 900,100 L900,180 L0,180 Z" fill="url(#wave1)"/>
+  <path d="M0,140 C200,100 350,170 550,130 C700,95 800,155 900,125 L900,180 L0,180 Z" fill="url(#wave2)"/>
+  <!-- Name -->
+  <text x="450" y="72" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="3">THANGAARUN A</text>
+  <!-- Tagline -->
+  <text x="450" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#70a5fd" text-anchor="middle" letter-spacing="1">Senior Laravel &amp; Full Stack Developer · Building Scalable Web Solutions</text>
+</svg>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Senior+Laravel+%26+Full+Stack+Developer;6%2B+Years+of+PHP+%7C+Vue.js+%7C+MySQL+Experience;Sports+Platform+Architect+%40+iSportz;REST+APIs+%7C+Multi-Tenancy+%7C+Keycloak+Auth" alt="Typing SVG" />
@@ -238,4 +261,23 @@ class ThangaarunA extends Developer
   <i>"Write clean code. Ship fast. Scale smart. 🚀"</i>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a1b4b"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="fw1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#bf91f3;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#70a5fd;stop-opacity:0.6"/>
+    </linearGradient>
+    <linearGradient id="fw2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#70a5fd;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#38bdae;stop-opacity:0.4"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="url(#fbg)"/>
+  <path d="M0,40 C150,80 300,20 450,55 C600,90 750,30 900,60 L900,0 L0,0 Z" fill="url(#fw1)"/>
+  <path d="M0,25 C200,65 400,10 580,45 C720,70 820,20 900,40 L900,0 L0,0 Z" fill="url(#fw2)"/>
+</svg>
